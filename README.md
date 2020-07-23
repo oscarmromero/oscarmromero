@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a engineer who is passionate about learning, creating, and repairing. I am facisnate about open-source software and my passion is melding of software and hardware. My professional career was in the bio-pharma industry. After taking a hard look at myself, where I want be and want make me excited, I decided to take sometime off to build the necessary skills to become an indispensable software engineer. 
+
+I am currently working through [Launch School](https://www.google.com "Launch School Homepage"). Currently getting my feet with Ruby!
+
 <!--
 **oscarmromero/oscarmromero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
